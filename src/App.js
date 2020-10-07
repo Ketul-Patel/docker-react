@@ -11,6 +11,8 @@ function App() {
           Genius
           <br></br>
           Edit <code>src/App.js</code> and save to reload. wowee
+          <br></br>
+          I added this -- sweet!
         </p>
         <a
           className="App-link"
